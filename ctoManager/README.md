@@ -4,4 +4,4 @@ Api criada com Slim e PHP para gerenciamento de CTOs facilitando o trabalho de t
 
 ## Instalação
 
-Apenas descompacte na raiz do servidor web com suporte a versão 5 ou superior do PHP.
+npm i (para instalar todos os pacotes e dependências do projeto.
