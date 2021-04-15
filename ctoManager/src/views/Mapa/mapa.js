@@ -22,7 +22,7 @@ export default function mapeamento() {
             <p className={classes.cardCategoryWhite}>
               Para acessar o conteúdo do projeto acesse{" "}
               <a
-                href="https://github.com/victorassisr/ctoManager"
+                href="https://github.com/tekkay/CTO_Manager"
                 target="_blank"
               ><b>
                 GitHub
